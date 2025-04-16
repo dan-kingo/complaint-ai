@@ -1,0 +1,38 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Model files (optional: only if you load them from cloud)
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Render local deploy config (optional)
+render.yaml
