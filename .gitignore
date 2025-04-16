@@ -24,7 +24,6 @@ Thumbs.db
 .env
 
 # Model files (optional: only if you load them from cloud)
-*.pkl
 *.h5
 *.pt
 *.joblib
