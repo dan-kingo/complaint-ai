@@ -127,15 +127,10 @@ Once deployed, your main backend (e.g., Express or Node.js) can send a `POST` re
 - Customer  
 - EEU Service  
 - Pre-paid  
-- Billing  
+- Billing
 
 ---
 
-## 📄 License
+## Contributing
 
-MIT © Your Name  
-```
-
----
-
-Let me know if you want to tailor it for **Flask** specifically or want to include instructions for **training the model** or **re-deploying to Hugging Face Spaces**, etc.
+- Give it a star
